@@ -213,7 +213,7 @@ select id,value1,abs(value1) as absolute_value
 from Calculations;
 ~~~
 
-**Output:**
+**Output:** 
 
 ![image](https://github.com/user-attachments/assets/386479f3-72d3-4a8e-815e-53540d143b21)
 
